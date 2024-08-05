@@ -1,0 +1,8 @@
+I will show you a solution of a math problem. You need to separate it into steps and list them by points. You can only copy origin contents. Don't summarize by yourself. The response format is as below:
+1. [step 1]
+2. [step 2]
+...
+N. [step N]
+
+The solution is:
+[To be replaced]
