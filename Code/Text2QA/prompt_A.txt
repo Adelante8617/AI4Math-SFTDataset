@@ -1,0 +1,12 @@
+我将为你提供多个数学命题和一段文本，你需要分别从文本中找出每个命题对应的证明，然后按
+[
+    {"problem": #extracted_problem, "solutions": #extracted_proofs},
+    {"problem": #extracted_problem, "solutions": #extracted_proofs},
+    {"problem": #extracted_problem, "solutions": #extracted_proofs},
+    ...
+]
+的格式输出。其中#extracted_problem是这个数学命题，#extracted_proofs是对应的证明过程。
+
+务必保证证明过程的完整，需要保留所有的方程、等式和符号。
+
+数学命题列表：
