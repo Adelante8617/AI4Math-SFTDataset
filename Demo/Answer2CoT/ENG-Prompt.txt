@@ -5,4 +5,3 @@ I will show you a solution of a math problem. You need to separate it into steps
 N. [step N]
 
 The solution is:
-[To be replaced]
