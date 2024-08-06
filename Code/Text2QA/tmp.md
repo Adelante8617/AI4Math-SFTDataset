@@ -1,4 +1,8 @@
+# A tmp file for checking result
 
+### This is used for visualizing response content.
+
+---
 question: 
 定理2.1.1 设$x>0$,则$\ln x \leq x-1$且仅当$x=1$时,等式成立.", 
 

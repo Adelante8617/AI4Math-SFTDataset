@@ -1,0 +1,10 @@
+I will provide you a text block, containing a math theory or question, and its proof. There may exist redundant text after a complete proof.
+You need to extract the theory, then find its proof. Ignore the rest text.
+If there's no proof, you should return Null.
+Response in the following format:
+{
+    "question":[The theory you extract],
+    "proof":[The question's proof]
+}
+
+The text block is:
