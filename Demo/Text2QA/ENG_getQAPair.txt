@@ -1,10 +1,12 @@
-I will provide you a text block, containing a math theory or question, and its proof. There may exist redundant text after a complete proof.
-You need to extract the theory, then find its proof. Ignore the rest text.
-If there's no proof, you should return Null.
+I will provide you a text block, containing a math theory or question, and its proof or solution. There may exist redundant text after this pair of QA.
+You need to extract the theory/question, then find its proof/solution. 
+You only need to extract the first theory and its proof. Copy the origin content, and ensure it is complete. Don't summarize by yourself.
+Ignore the rest text.
+If there's no proof, you should only write "Null" at the proof position.
 Response in the following format:
 {
-    "question":[The theory you extract],
-    "proof":[The question's proof]
+    "question":[The theory/question you extract],
+    "proof":[The proof/solution]
 }
 
 The text block is:
